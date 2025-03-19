@@ -1,0 +1,6 @@
+/home/cicd/ILP_HCLstore/src/test/java/devops/ilp1/controllerWithoutDb/RegisterTest.java
+/home/cicd/ILP_HCLstore/src/test/java/devops/ilp1/controllerWithoutDb/ChangePasswordTest.java
+/home/cicd/ILP_HCLstore/src/integration-test/java/devops/ilp1/LoginFunctionalTest.java
+/home/cicd/ILP_HCLstore/src/integration-test/java/devops/ilp1/IntegrationTest.java
+/home/cicd/ILP_HCLstore/src/test/java/devops/ilp1/service/UserServiceTest.java
+/home/cicd/ILP_HCLstore/src/test/java/devops/ilp1/controllerWithoutDb/LoginTest.java

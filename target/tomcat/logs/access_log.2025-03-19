@@ -1,0 +1,8 @@
+127.0.0.1 - - [19/Mar/2025:15:10:58 +0530] "GET /ILP_HCLstore/forgotpassword.jsp HTTP/1.1" 200 1578 http-bio-6080-exec-1 749
+127.0.0.1 - - [19/Mar/2025:15:10:58 +0530] "GET /favicon.ico HTTP/1.1" 404 - http-bio-6080-exec-2 0
+127.0.0.1 - - [19/Mar/2025:15:10:59 +0530] "POST /ILP_HCLstore/GetPassword HTTP/1.1" 200 1481 http-bio-6080-exec-3 166
+127.0.0.1 - - [19/Mar/2025:15:10:59 +0530] "GET /ILP_HCLstore/register.jsp HTTP/1.1" 200 1812 http-bio-6080-exec-4 31
+127.0.0.1 - - [19/Mar/2025:15:10:59 +0530] "POST /ILP_HCLstore/Register HTTP/1.1" 200 1481 http-bio-6080-exec-5 7
+127.0.0.1 - - [19/Mar/2025:15:10:59 +0530] "GET /ILP_HCLstore HTTP/1.1" 302 - http-bio-6080-exec-6 0
+127.0.0.1 - - [19/Mar/2025:15:10:59 +0530] "GET /ILP_HCLstore/ HTTP/1.1" 200 1481 http-bio-6080-exec-7 1
+127.0.0.1 - - [19/Mar/2025:15:11:00 +0530] "POST /ILP_HCLstore/Login HTTP/1.1" 200 147 http-bio-6080-exec-8 32
